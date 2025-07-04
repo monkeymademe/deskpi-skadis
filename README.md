@@ -1,4 +1,7 @@
-Deskpi T1 RackMate Skadis Walls
+***Deskpi T1 RackMate Skadis Walls***
+
+![T1 RackMate Skadis Walls](https://github.com/monkeymademe/deskpi-skadis/blob/main/images/T1RackmateSkadis.jpg "T1 RackMate Skadis Walls")
+
 
 This is a modular system built for smaller print beds that when put together replace the acrylic walls of the T1 RackMate from Deskpi/52pi.
 
